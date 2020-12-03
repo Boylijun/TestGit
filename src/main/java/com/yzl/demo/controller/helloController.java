@@ -11,4 +11,9 @@ public class helloController {
 
         return "index2";
     }
+    @RequestMapping("/index2")
+    public String sayHello2() throws InterruptedException {
+
+        return "index3";
+    }
 }

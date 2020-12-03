@@ -13,4 +13,5 @@ public class wordController {
 
         return "index2";
     }
+
 }
